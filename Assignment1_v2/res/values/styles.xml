@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		Copyright (C) 2011 wgx731 Republic Polytechnic Assignment 1 Project
+
+		Licensed under the Apache License, Version 2.0 (the "License"); you
+		may not use this file except in compliance with the License. You may
+		obtain a copy of the License at
+
+		http://www.apache.org/licenses/LICENSE-2.0 Unless required by
+		applicable law or agreed to in writing, software distributed under the
+		License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+		CONDITIONS OF ANY KIND, either express or implied. See the License for
+		the specific language governing permissions and limitations under the
+		License.
+	-->
+	<!--
+		This is styles file used by application.
+	-->
+<resources>
+	<style name="listFont" parent="@android:style/TextAppearance.Large">
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:layout_width">fill_parent</item>
+		<item name="android:paddingTop">15dip</item>
+		<item name="android:paddingBottom">15dip</item>
+		<item name="android:paddingLeft">15dip</item>
+	</style>
+	<style name="lbFont" parent="@android:style/TextAppearance.Medium">
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:padding">10dip</item>
+	</style>
+	<style name="rRatingBar" parent="@android:style/Widget.RatingBar">
+		<item name="android:progressDrawable">@drawable/ratingbar_full</item>
+		<item name="android:numStars">4</item>
+		<item name="android:stepSize">0.5</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_centerHorizontal">true</item>
+	</style>
+</resources>
+

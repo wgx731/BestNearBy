@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		Copyright (C) 2011 wgx731 Republic Polytechnic Assignment 1 Project
+
+		Licensed under the Apache License, Version 2.0 (the "License"); you
+		may not use this file except in compliance with the License. You may
+		obtain a copy of the License at
+
+		http://www.apache.org/licenses/LICENSE-2.0 Unless required by
+		applicable law or agreed to in writing, software distributed under the
+		License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+		CONDITIONS OF ANY KIND, either express or implied. See the License for
+		the specific language governing permissions and limitations under the
+		License.
+	-->
+	<!--
+		This is string value file used by application
+	-->
+<resources>
+	<string name="app_name">BestNearBy</string>
+	<string name="menuTitle">Restaurant Detail:</string>
+	<string name="mapViewOption">View On Google Map</string>
+	<string name="reviewOption">Write Review</string>
+	<string name="phoneOption">Call Restaurant</string>
+	<string name="webOption">View Restaurant Web Page</string>
+	<string name="webView">Restaurant Home Page</string>
+	<string name="mapmenu1">Normal View</string>
+	<string name="mapmenu2">Satellite View</string>
+	<string name="mapmenu3">Show My Location</string>
+	<string name="rb1_lb">Price Rating:</string>
+	<string name="rb2_lb">Taste Rating:</string>
+	<string name="rb3_lb">Service Rating:</string>
+	<string name="save">Save Review</string>
+	<string name="result">Average Rating:</string>
+	<string name="sort">Sort</string>
+	<string name="refresh">Refresh</string>
+</resources>
